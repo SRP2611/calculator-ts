@@ -12,7 +12,7 @@ Follow the steps below to setup the application in local:
 - To run application build
   - npm start
 
-- Use the browser to launch the GraphiQL UI playground by navigating to http://localhost:4000/calculator
+- Use the browser to launch the GraphiQL UI playground by navigating to http://localhost:4000
 
 Happy Coding!
 
